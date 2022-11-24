@@ -1,5 +1,20 @@
 [
   {
     "package": "biodb"
+  },
+  {
+    "package": "biodbChebi"
+  },
+  {
+    "package": "biodbHmdb"
+  },
+  {
+    "package": "biodbKegg"
+  },
+  {
+    "package": "biodbUniprot"
+  },
+  {
+    "package": "biodbLipidmaps"
   }
 ]
