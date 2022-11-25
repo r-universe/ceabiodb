@@ -12,6 +12,9 @@
     "package": "biodbKegg"
   },
   {
+    "package": "biodbNcbi"
+  },
+  {
     "package": "biodbUniprot"
   },
   {
