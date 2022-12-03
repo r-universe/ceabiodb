@@ -23,6 +23,11 @@
 	url = https://github.com/ceabiodb/biodbkegg
 	shallow = true
 	registered = true
+[submodule "biodbLipidmaps"]
+	path = biodbLipidmaps
+	url = https://github.com/ceabiodb/biodblipidmaps
+	shallow = true
+	registered = true
 [submodule "biodbNcbi"]
 	path = biodbNcbi
 	url = https://github.com/ceabiodb/biodbncbi
@@ -31,10 +36,5 @@
 [submodule "biodbUniprot"]
 	path = biodbUniprot
 	url = https://github.com/ceabiodb/biodbuniprot
-	shallow = true
-	registered = true
-[submodule "biodbLipidmaps"]
-	path = biodbLipidmaps
-	url = https://github.com/ceabiodb/biodblipidmaps
 	shallow = true
 	registered = true

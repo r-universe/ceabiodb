@@ -12,12 +12,12 @@
     "package": "biodbKegg"
   },
   {
+    "package": "biodbLipidmaps"
+  },
+  {
     "package": "biodbNcbi"
   },
   {
     "package": "biodbUniprot"
-  },
-  {
-    "package": "biodbLipidmaps"
   }
 ]
