@@ -1,23 +1,23 @@
 [
   {
-    "package": "biodb"
-  },
-  {
     "package": "biodbChebi"
   },
   {
+    "package": "biodbUniprot"
+  },
+  {
+    "package": "biodbNcbi"
+  },
+  {
     "package": "biodbHmdb"
+  },
+  {
+    "package": "biodb"
   },
   {
     "package": "biodbKegg"
   },
   {
     "package": "biodbLipidmaps"
-  },
-  {
-    "package": "biodbNcbi"
-  },
-  {
-    "package": "biodbUniprot"
   }
 ]
