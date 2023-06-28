@@ -1,40 +1,25 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "biodb"]
 	path = biodb
 	url = https://github.com/ceabiodb/biodb
-	shallow = true
-	registered = true
 [submodule "biodbChebi"]
 	path = biodbChebi
 	url = https://github.com/ceabiodb/biodbchebi
-	shallow = true
-	registered = true
 [submodule "biodbHmdb"]
 	path = biodbHmdb
 	url = https://github.com/ceabiodb/biodbhmdb
-	shallow = true
-	registered = true
 [submodule "biodbKegg"]
 	path = biodbKegg
 	url = https://github.com/ceabiodb/biodbkegg
-	shallow = true
-	registered = true
 [submodule "biodbLipidmaps"]
 	path = biodbLipidmaps
 	url = https://github.com/ceabiodb/biodblipidmaps
-	shallow = true
-	registered = true
 [submodule "biodbNcbi"]
 	path = biodbNcbi
 	url = https://github.com/ceabiodb/biodbncbi
-	shallow = true
-	registered = true
 [submodule "biodbUniprot"]
 	path = biodbUniprot
 	url = https://github.com/ceabiodb/biodbuniprot
-	shallow = true
-	registered = true
